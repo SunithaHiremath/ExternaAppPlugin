@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="ExternaAppPlugin.Droid\ExternaAppPlugin.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExternaAppPlugin.Droid\MvxLaunchAppTask.cs">
+    <Files>
+      <File FileName="ExternaAppPlugin\IMvxLaunchAppTask.cs" Line="10" Column="1" />
+      <File FileName="ExternaAppPlugin.Droid\MvxLaunchAppTask.cs" Line="17" Column="17" />
+      <File FileName="ExternaAppPlugin\PluginLoader.cs" Line="20" Column="1" />
+      <File FileName="ExternaAppPlugin.Droid\Setup.cs" Line="12" Column="1" />
+      <File FileName="ExternalAppPluginLib.Droid\MvxLaunchAppTask.cs" Line="24" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ExternaAppPlugin.Droid PreferredExecutionTarget="Android.AVD_for_7_WSVGA_Tablet" />
+  <MonoDevelop.Ide.ItemProperties.ExternaAppPlugin PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

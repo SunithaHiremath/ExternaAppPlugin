@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternaAppPlugin", "ExternaAppPlugin\ExternaAppPlugin.csproj", "{04F43427-872E-41F2-9083-7E6173C9780B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternaAppPlugin.Droid", "ExternaAppPlugin.Droid\ExternaAppPlugin.Droid.csproj", "{9EAF8537-6219-4F6A-8B63-EA48FD980A23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalAppPluginLib.Droid", "ExternalAppPluginLib.Droid\ExternalAppPluginLib.Droid.csproj", "{0DCA67DF-65C5-4048-8E69-2D552D6E8C01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04F43427-872E-41F2-9083-7E6173C9780B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04F43427-872E-41F2-9083-7E6173C9780B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04F43427-872E-41F2-9083-7E6173C9780B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04F43427-872E-41F2-9083-7E6173C9780B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EAF8537-6219-4F6A-8B63-EA48FD980A23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EAF8537-6219-4F6A-8B63-EA48FD980A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EAF8537-6219-4F6A-8B63-EA48FD980A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EAF8537-6219-4F6A-8B63-EA48FD980A23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DCA67DF-65C5-4048-8E69-2D552D6E8C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DCA67DF-65C5-4048-8E69-2D552D6E8C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DCA67DF-65C5-4048-8E69-2D552D6E8C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DCA67DF-65C5-4048-8E69-2D552D6E8C01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

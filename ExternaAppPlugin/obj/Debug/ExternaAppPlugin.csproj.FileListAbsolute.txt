@@ -1,0 +1,9 @@
+D:\Xamarin\ExternaAppPlugin\ExternaAppPlugin\bin\Debug\ExternaAppPlugin.dll
+D:\Xamarin\ExternaAppPlugin\ExternaAppPlugin\bin\Debug\ExternaAppPlugin.pdb
+D:\Xamarin\ExternaAppPlugin\ExternaAppPlugin\bin\Debug\MvvmCross.Binding.dll
+D:\Xamarin\ExternaAppPlugin\ExternaAppPlugin\bin\Debug\MvvmCross.Core.dll
+D:\Xamarin\ExternaAppPlugin\ExternaAppPlugin\bin\Debug\MvvmCross.Localization.dll
+D:\Xamarin\ExternaAppPlugin\ExternaAppPlugin\bin\Debug\MvvmCross.Platform.dll
+D:\Xamarin\ExternaAppPlugin\ExternaAppPlugin\obj\Debug\ExternaAppPlugin.dll
+D:\Xamarin\ExternaAppPlugin\ExternaAppPlugin\obj\Debug\ExternaAppPlugin.pdb
+D:\Xamarin\ExternaAppPlugin\ExternaAppPlugin\obj\Debug\ExternaAppPlugin.csprojResolveAssemblyReference.cache
